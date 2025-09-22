@@ -1,1 +1,1 @@
-# cd
+# git clone https://github.com/sofiakimbiasbinas25-tech/compsci.git
